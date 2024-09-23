@@ -1,10 +1,9 @@
 body{
     background-color: #51658C;
     border: 5px solid #ffffff;
-    margin: 3%;
+    margin: 1%;
     padding: 3%;
-    min-width: 320px;
-    max-width: 100%;
+    font-size: small;
 }
 h1,.add{
     text-align: center;
@@ -14,18 +13,23 @@ h1,.add{
 img{
     border-radius: 50%;
 }
+.di{
+    display: flex;
+    justify-content: center;
+    
+}
 table{
     border: 5px solid #ffffff;
-    width: 100%;
     border-collapse: collapse;
+    
+}
+#a,#b,#c,#d,#e{
+    padding: 10px;
+    width: 5px;
 }
 tr{
-    height: 80px;
-    display: flexbox;
-    justify-content: space-around;
     background-color: #A8BFB7;
-    min-width: 320px;
-    max-width: 100%;
+    
 }
 .inf{
     text-align: center;
