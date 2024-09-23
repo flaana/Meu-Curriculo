@@ -19,12 +19,11 @@ img{
     
 }
 table{
-    border: 5px solid #ffffff;
+    border: 2px solid #ffffff;
     
 }
 #a,#b,#c,#d,#e{
-    padding: 3px;
-    width: 2px;
+    width: 1px;
 }
 tr{
     background-color: #A8BFB7;
